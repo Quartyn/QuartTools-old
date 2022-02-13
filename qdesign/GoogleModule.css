@@ -1,0 +1,47 @@
+/* #region Acc */
+.gb_E {
+    background: #181818 !important;
+}
+.gb_k .gb_lb {
+    color: white !important;
+}
+.gb_Ib {
+    border-top: 1px solid #303030 !important;
+}
+.gb_rb.gb_rb {
+    background: #202020 !important;
+    border: 1px solid #303030 !important;
+    color: grey !important;
+}
+.gb_rb.gb_rb:hover {
+    background: #252525 !important;
+}
+.gb_0b {
+    color: white !important;
+}
+.gb_k .gb_ib {
+    background: #202020 !important;
+}
+.gb_0a.gb_E.gb_k.gb_1a.gb_la::-webkit-scrollbar-thumb {
+    background: #303030 !important;
+    border: 5px solid #181818 !important;
+}
+.gb_vb.gb_vb {
+    background-color: #181818 !important;
+    color: grey !important;
+}
+.gb_Cb.gb_Cb, .gb_Db.gb_Db {
+    background-color: #202020 !important;
+    border: 1px solid #303030 !important;
+}
+.gb_Cb.gb_Cb {
+    color: grey !important;
+}
+.gb_Bb {
+    border-top: 1px solid #303030 !important;
+    border-bottom: 1px solid #303030 !important;
+}
+a#gb_71:hover {
+    background: #252525 !important;
+}
+/* #endregion */

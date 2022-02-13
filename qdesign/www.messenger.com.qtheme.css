@@ -1,0 +1,8 @@
+html.charcoal_theme::-webkit-scrollbar, html.charcoal_theme .buofh1pr.j83agx80.eg9m0zos.ni8dbmo4.cbu4d94t.gok29vw1::-webkit-scrollbar {
+    background: #131313;
+}
+html.charcoal_theme::-webkit-scrollbar-thumb, html.charcoal_theme .buofh1pr.j83agx80.eg9m0zos.ni8dbmo4.cbu4d94t.gok29vw1::-webkit-scrollbar-thumb {
+    background: grey;
+    border: 5px solid #131313;
+    border-radius: 20px;
+}
