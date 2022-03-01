@@ -1,0 +1,74 @@
+{
+    "qthemes": [
+        {
+            "url": "www.instagram.com",
+            "name": "Instagram",
+            "by": "Meta",
+            "qname": "Instagram",
+            "image": "Instagram"
+        },
+        {
+            "url": "translate.google",
+            "name": "Translate",
+            "by": "Google",
+            "qname": "GoogleTranslate",
+            "image": "GoogleTranslate"
+        },
+        {
+            "url": "www.messenger.com",
+            "name": "Messenger",
+            "by": "Meta",
+            "qname": "Messenger",
+            "image": "Messenger"
+        },
+        {
+            "url": "myaccount.google.com",
+            "name": "My Account",
+            "by": "Google",
+            "qname": "GoogleMyAccount",
+            "image": "Google"
+        },
+        {
+            "url": "soundcloud.com",
+            "name": "SoundCloud",
+            "by": "SoundCloud",
+            "qname": "SoundCloud",
+            "image": "SoundCloud"
+        },
+        {
+            "url": "accounts.google.com",
+            "name": "Accounts",
+            "by": "Google",
+            "qname": "GoogleAccounts",
+            "image": "Google"
+        },
+        {
+            "url": "passwords.google.com",
+            "name": "Passwords",
+            "by": "Google",
+            "qname": "GooglePasswords",
+            "image": "Google"
+        },
+        {
+            "url": "calendar.google.com",
+            "name": "Calendar",
+            "by": "Google",
+            "qname": "GoogleCalendar",
+            "image": "GoogleCalendar"
+        },
+        {
+            "url": "contacts.google.com",
+            "name": "Contacts",
+            "by": "Google",
+            "qname": "GoogleContacts",
+            "image": "GoogleContacts"
+        },
+        {
+            "url": "drive.google.com",
+            "name": "Drive",
+            "by": "Google",
+            "qname": "GoogleDrive",
+            "image": "GoogleDrive"
+        }
+    ]
+}
