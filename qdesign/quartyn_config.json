@@ -57,13 +57,6 @@
             "image": "GoogleCalendar"
         },
         {
-            "url": "contacts.google.com",
-            "name": "Contacts",
-            "by": "Google",
-            "qname": "GoogleContacts",
-            "image": "GoogleContacts"
-        },
-        {
             "url": "drive.google.com",
             "name": "Drive",
             "by": "Google",
