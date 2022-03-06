@@ -12,7 +12,6 @@ My Socials:
    https://www.youtube.com/channel/UC-XeZnVC9bBcNpOfSEXrjmQ
 
 Licenses:
- • QuartServices
  • QuartTools
  • QuartTools - Themes
 
