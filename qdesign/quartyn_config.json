@@ -2,7 +2,7 @@
     "qthemes": [
         {
             "url": "photos.google.com",
-            "name": "*New* Photos",
+            "name": "Photos",
             "by": "Google",
             "qname": "GooglePhotos",
             "image": "GooglePhotos"
