@@ -1,6 +1,13 @@
 {
     "qthemes": [
         {
+            "url": "photos.google.com",
+            "name": "Photos",
+            "by": "Google",
+            "qname": "GooglePhotos",
+            "image": "Google"
+        },
+        {
             "url": "www.instagram.com",
             "name": "Instagram",
             "by": "Meta",
