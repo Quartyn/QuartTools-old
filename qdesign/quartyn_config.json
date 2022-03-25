@@ -5,7 +5,8 @@
             "name": "Photos",
             "by": "Google",
             "qname": "GooglePhotos",
-            "image": "GooglePhotos"
+            "image": "GooglePhotos",
+            "status": "New"
         },
         {
             "url": "www.instagram.com",
