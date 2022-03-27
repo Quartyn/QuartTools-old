@@ -6,14 +6,16 @@
             "by": "Google",
             "qname": "GooglePhotos",
             "image": "GooglePhotos",
-            "status": "New"
+            "status": "New",
+            "version": "0.2.4"
         },
         {
             "url": "www.instagram.com",
             "name": "Instagram",
             "by": "Meta",
             "qname": "Instagram",
-            "image": "Instagram"
+            "image": "Instagram",
+            "version": "8.8.4"
         },
         {
             "url": "translate.google",
