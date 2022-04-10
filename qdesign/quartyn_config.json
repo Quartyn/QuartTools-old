@@ -82,6 +82,15 @@
             "by": "Google",
             "qname": "GoogleDrive",
             "image": "GoogleDrive"
+        },
+        {
+            "url": "www.duolingo.com",
+            "name": "Duolingo",
+            "by": "Duolingo",
+            "qname": "Duolingo",
+            "image": "Duolingo",
+            "status": "New",
+            "version": "1.0.0"
         }
     ]
 }
