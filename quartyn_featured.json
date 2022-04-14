@@ -4,7 +4,7 @@
             "url": "https://www.nvidia.com/en-eu/geforce-now/",
             "name": "Nvidia GeForce NOW",
             "desc": "The Next Generation In CLOUD GAMING",
-            "image": "https://play-lh.googleusercontent.com/_-b_HQXrVyyhZSHj_BoE9u_-cxkcHDH_yLX5rDjJsFMIfsCNQs9F3QP4JvEFcWaSIz0",
+            "image": "https://play-lh.googleusercontent.com/_-b_HQXrVyyhZSHj_BoE9u_-cxkcHDH_yLX5rDjJsFMIfsCNQs9F3QP4JvEFcWaSIz0?quartyn=rounded",
             "tag": "Best,Service"
         },
         {
@@ -32,7 +32,7 @@
             "url": "https://www.frankerfacez.com/",
             "name": "FrankerFaceZ",
             "desc": "The Twitch Enhancement Suite",
-            "image": "https://pbs.twimg.com/profile_images/723606757805838341/jvdqxQpL_400x400.jpg",
+            "image": "https://pbs.twimg.com/profile_images/723606757805838341/jvdqxQpL_400x400.jpg?quartyn=rounded",
             "tag": "Extension"
         },
         {
@@ -46,7 +46,7 @@
             "url": "https://chrome.google.com/webstore/detail/social-blade/cfidkbgamfhdgmedldkagjopnbobdmdn",
             "name": "Social Blade",
             "desc": "See the best of Social Blade Stats right on YouTube, TwitchTV",
-            "image": "https://socialblade.com/images/SocialbladeBadge.png",
+            "image": "https://socialblade.com/images/SocialbladeBadge.png?quartyn=rounded",
             "tag": "Service,Extension"
         }
     ]
