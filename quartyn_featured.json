@@ -5,7 +5,7 @@
             "name": "Nvidia GeForce NOW",
             "desc": "The Next Generation In CLOUD GAMING",
             "image": "https://play-lh.googleusercontent.com/_-b_HQXrVyyhZSHj_BoE9u_-cxkcHDH_yLX5rDjJsFMIfsCNQs9F3QP4JvEFcWaSIz0",
-            "tag": "Service"
+            "tag": "Best,Service"
         },
         {
             "url": "https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng",
@@ -27,6 +27,27 @@
             "desc": "Enhance Twitch with new features, emotes, and more",
             "image": "https://pbs.twimg.com/profile_images/571369694137819136/lst8DKUj.png",
             "tag": "Extension"
+        },
+        {
+            "url": "https://www.frankerfacez.com/",
+            "name": "FrankerFaceZ",
+            "desc": "The Twitch Enhancement Suite",
+            "image": "https://pbs.twimg.com/profile_images/723606757805838341/jvdqxQpL_400x400.jpg",
+            "tag": "Extension"
+        },
+        {
+            "url": "https://chrome.google.com/webstore/detail/avg-online-security/nbmoafcmbajniiapeidgficgifbfmjfo",
+            "name": "AVG Online Security",
+            "desc": "AVG Browser Security and Web Reputation Plugin",
+            "image": "https://docrack.org/wp-content/uploads/2021/02/AVG-Antivirus-21.1.3159-Crack-With-Serial-Key-Torrent-Full-Version-2021.png",
+            "tag": "Extension"
+        },
+        {
+            "url": "https://chrome.google.com/webstore/detail/social-blade/cfidkbgamfhdgmedldkagjopnbobdmdn",
+            "name": "Social Blade",
+            "desc": "See the best of Social Blade Stats right on YouTube, TwitchTV",
+            "image": "https://socialblade.com/images/SocialbladeBadge.png",
+            "tag": "Service,Extension"
         }
     ]
 }
