@@ -3,14 +3,16 @@
         {
             "url": "https://www.nvidia.com/en-eu/geforce-now/",
             "name": "Nvidia GeForce NOW",
+            "desc": "The Next Generation In CLOUD GAMING",
             "image": "https://play-lh.googleusercontent.com/_-b_HQXrVyyhZSHj_BoE9u_-cxkcHDH_yLX5rDjJsFMIfsCNQs9F3QP4JvEFcWaSIz0",
             "tag": "Service"
         },
         {
-            "url": "https://www.nvidia.com/en-eu/geforce-now/",
-            "name": "Nvidia GeForce NOW",
-            "image": "https://play-lh.googleusercontent.com/_-b_HQXrVyyhZSHj_BoE9u_-cxkcHDH_yLX5rDjJsFMIfsCNQs9F3QP4JvEFcWaSIz0",
-            "tag": "Service"
+            "url": "https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng",
+            "name": "Charcoal for Messenger",
+            "desc": "Dark Mode for Messenger",
+            "image": "https://lh3.googleusercontent.com/gdW6aJ4OYt1U6B2ETd8PnG79AP8Qpi5vIB-6QQpaM-D3g8Jr_LMOHzQoLe7QWe8VfEJC-hvLZwOtQtkh2NaJBakji_c=w128-h128-e365-rj-sc0x00ffffff",
+            "tag": "Extension"
         },
         {
             "url": "https://www.nvidia.com/en-eu/geforce-now/",
