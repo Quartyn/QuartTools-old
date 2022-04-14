@@ -17,13 +17,14 @@
         {
             "url": "https://chatterino.com/",
             "name": "Chatterino",
-            "desc" : "Twitch Chat Client",
+            "desc" : "Best Twitch Chat Experience",
             "image": "https://avatars.githubusercontent.com/u/39381366",
             "tag": "Application"
         },
         {
             "url": "https://betterttv.com/",
             "name": "BetterTTV",
+            "desc": "Enhance Twitch with new features, emotes, and more",
             "image": "https://pbs.twimg.com/profile_images/571369694137819136/lst8DKUj.png",
             "tag": "Extension"
         }
