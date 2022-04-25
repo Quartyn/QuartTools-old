@@ -1,7 +1,5 @@
 {
-    "data": [
-        {
-          "twitch_bonus_chest_id": "[data-test-selector=/qcommunity-points-summary/q] button.gjXDMG"
-        }
-    ]
+    "twitch": {
+        "bonus_chest_id": "[data-test-selector=/qcommunity-points-summary/q] button.gjXDMG"
+    }
 }
