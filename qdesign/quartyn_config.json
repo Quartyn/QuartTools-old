@@ -1,6 +1,15 @@
 {
     "qthemes": [
         {
+            "url": "www.instagram.com",
+            "name": "Instagram",
+            "by": "Meta",
+            "qname": "Instagram",
+            "image": "Instagram",
+            "version": "1.1.2",
+            "status": "Updated"
+        },
+        {
             "url": "pinterest.com",
             "name": "Pinterest",
             "by": "Pinterest",
@@ -19,13 +28,13 @@
             "version": "0.2.4"
         },
         {
-            "url": "www.instagram.com",
-            "name": "Instagram",
-            "by": "Meta",
-            "qname": "Instagram",
-            "image": "Instagram",
-            "version": "1.1.2",
-            "status": "Updated"
+            "url": "classroom.google.com",
+            "name": "Classroom",
+            "by": "Google",
+            "qname": "GoogleClassroom",
+            "image": "Google",
+            "status": "Beta",
+            "version": "0.1.4"
         },
         {
             "url": "translate.google",
