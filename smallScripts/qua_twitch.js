@@ -1,4 +1,4 @@
-﻿const PointsWait = 100;
+const PointsWait = 100;
 const CollectPoints = 6000;
 let Selector = '[data-test-selector="community-points-summary"] button.gjXDMG'; // 22.4.2022
 setInterval(() => {
@@ -10,4 +10,5 @@ setInterval(() => {
         }, PointsWait);
     }
 }, CollectPoints);
+console.clear();
 console.log('%cQuartTools [%cqua_twitch%c]: %cAutoclaim Bonus Points Activated!', 'color:cyan;', 'color:white;', 'color:cyan', 'color:white;');
