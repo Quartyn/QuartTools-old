@@ -10,6 +10,15 @@
             "status": "Updated"
         },
         {
+            "url": "onedrive.live.com",
+            "name": "Onedrive",
+            "by": "Microsoft",
+            "qname": "Onedrive",
+            "image": "Pinterest",
+            "status": "Beta",
+            "version": "0.5.1"
+        },
+        {
             "url": "pinterest.com",
             "name": "Pinterest",
             "by": "Pinterest",
