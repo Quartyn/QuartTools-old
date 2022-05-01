@@ -14,7 +14,7 @@
             "name": "Onedrive",
             "by": "Microsoft",
             "qname": "Onedrive",
-            "image": "Pinterest",
+            "image": "https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png",
             "status": "Beta",
             "version": "0.5.1"
         },
