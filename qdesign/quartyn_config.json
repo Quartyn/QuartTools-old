@@ -11,30 +11,12 @@
         },
         {
             "url": "onedrive.live.com",
-            "name": "Onedrive",
+            "name": "OneDrive",
             "by": "Microsoft",
-            "qname": "Onedrive",
-            "image": "https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png",
+            "qname": "OneDrive",
+            "image": "OneDrive",
             "status": "Beta",
             "version": "0.5.1"
-        },
-        {
-            "url": "pinterest.com",
-            "name": "Pinterest",
-            "by": "Pinterest",
-            "qname": "Pinterest",
-            "image": "Pinterest",
-            "status": "New",
-            "version": "0.1.1"
-        },
-        {
-            "url": "photos.google.com",
-            "name": "Photos",
-            "by": "Google",
-            "qname": "GooglePhotos",
-            "image": "GooglePhotos",
-            "status": "New",
-            "version": "0.2.4"
         },
         {
             "url": "classroom.google.com",
@@ -44,6 +26,22 @@
             "image": "Google",
             "status": "Beta",
             "version": "0.1.4"
+        },
+        {
+            "url": "pinterest.com",
+            "name": "Pinterest",
+            "by": "Pinterest",
+            "qname": "Pinterest",
+            "image": "Pinterest",
+            "version": "0.1.1"
+        },
+        {
+            "url": "photos.google.com",
+            "name": "Photos",
+            "by": "Google",
+            "qname": "GooglePhotos",
+            "image": "GooglePhotos",
+            "version": "0.2.4"
         },
         {
             "url": "translate.google",
