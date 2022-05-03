@@ -90,7 +90,8 @@
             "name": "Calendar",
             "by": "Google",
             "qname": "GoogleCalendar",
-            "image": "GoogleCalendar"
+            "image": "GoogleCalendar",
+            "status": "Alpha"
         },
         {
             "url": "drive.google.com",
