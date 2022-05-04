@@ -10,6 +10,14 @@
             "status": "Updated"
         },
         {
+            "url": ".edupage.org",
+            "name": "Edupage",
+            "by": "Edupage",
+            "qname": "Edupage",
+            "version": "0.0.0",
+            "status": "Making On"
+        },
+        {
             "url": "onedrive.live.com",
             "name": "OneDrive",
             "by": "Microsoft",
