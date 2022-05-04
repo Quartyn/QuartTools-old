@@ -14,6 +14,7 @@
             "name": "Edupage",
             "by": "Edupage",
             "qname": "Edupage",
+            "image": "https://portal.edupage.org/global/pics/icons/logo.png",
             "version": "0.0.0",
             "status": "Making On",
             "reqby": "Glitch"
