@@ -17,7 +17,16 @@
             "version": "0.0.0",
             "status": "Developing",
             "reqby": "Glitch"
-        }, 
+        },
+        {
+            "url": "classroom.google.com",
+            "name": "Classroom",
+            "by": "Google",
+            "qname": "GoogleClassroom",
+            "image": "GoogleClassroom",
+            "status": "New",
+            "version": "1.0.0"
+        },
         {
             "url": "musixmatch.com",
             "name": "Musixmatch",
@@ -36,15 +45,6 @@
             "image": "OneDrive",
             "status": "Beta",
             "version": "0.5.1"
-        },
-        {
-            "url": "classroom.google.com",
-            "name": "Classroom",
-            "by": "Google",
-            "qname": "GoogleClassroom",
-            "image": "Google",
-            "status": "Beta",
-            "version": "0.1.4"
         },
         {
             "url": "pinterest.com",
