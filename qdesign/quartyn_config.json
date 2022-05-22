@@ -19,14 +19,6 @@
             "reqby": "Glitch"
         },
         {
-            "url": "classroom.google.com",
-            "name": "Classroom",
-            "by": "Google",
-            "qname": "GoogleClassroom",
-            "image": "GoogleClassroom",
-            "version": "1.0.0"
-        },
-        {
             "url": "musixmatch.com",
             "name": "Musixmatch",
             "by": "Musixmatch",
@@ -35,6 +27,14 @@
             "version": "1.0.3",
             "status": "New",
             "reqby": "Quartyn"
+        },
+        {
+            "url": "classroom.google.com",
+            "name": "Classroom",
+            "by": "Google",
+            "qname": "GoogleClassroom",
+            "image": "GoogleClassroom",
+            "version": "1.0.0"
         },
         {
             "url": "onedrive.live.com",
