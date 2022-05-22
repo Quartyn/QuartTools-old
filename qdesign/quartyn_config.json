@@ -24,7 +24,6 @@
             "by": "Google",
             "qname": "GoogleClassroom",
             "image": "GoogleClassroom",
-            "status": "New",
             "version": "1.0.0"
         },
         {
@@ -33,7 +32,7 @@
             "by": "Musixmatch",
             "qname": "Musixmatch",
             "image": "Musixmatch",
-            "version": "1.0.0",
+            "version": "1.0.3",
             "status": "New",
             "reqby": "Quartyn"
         },
