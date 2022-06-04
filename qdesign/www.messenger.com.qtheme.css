@@ -1,8 +1,5 @@
-html.charcoal_theme::-webkit-scrollbar, html.charcoal_theme .buofh1pr.j83agx80.eg9m0zos.ni8dbmo4.cbu4d94t.gok29vw1::-webkit-scrollbar {
-    background: #131313;
-}
-html.charcoal_theme::-webkit-scrollbar-thumb, html.charcoal_theme .buofh1pr.j83agx80.eg9m0zos.ni8dbmo4.cbu4d94t.gok29vw1::-webkit-scrollbar-thumb {
-    background: grey;
-    border: 5px solid #131313;
-    border-radius: 20px;
-}
+/* Version 1.0.0 Last Updated: 04.06.2022 */
+/* Author: Quartyn */
+/* Theme: Messenger Additional Design */
+
+html.charcoal_theme .j83agx80.cbu4d94t.datstx6m.rek2kq2y.emxnvquj.pmk7jnqg.k4urcfbm::-webkit-scrollbar,html.charcoal_theme::-webkit-scrollbar{background:#131313}html.charcoal_theme .j83agx80.cbu4d94t.datstx6m.rek2kq2y.emxnvquj.pmk7jnqg.k4urcfbm::-webkit-scrollbar-thumb,html.charcoal_theme::-webkit-scrollbar-thumb{background:grey;border:5px solid #131313;border-radius:20px}
