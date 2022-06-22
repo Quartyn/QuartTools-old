@@ -59,7 +59,8 @@
             "by": "Google",
             "qname": "GooglePhotos",
             "image": "GooglePhotos",
-            "version": "0.2.4"
+            "version": "0.9.3",
+            "status": "Updated"
         },
         {
             "url": "translate.google",
