@@ -19,6 +19,15 @@
             "reqby": "Glitch"
         },
         {
+            "url": "www.tiktok.com",
+            "name": "TikTok",
+            "by": "TikTok",
+            "qname": "TikTok",
+            "image": "TikTok",
+            "version": "0.0.1",
+            "status": "Beta"
+        },
+        {
             "url": "pinterest.com",
             "name": "Pinterest",
             "by": "Pinterest",
