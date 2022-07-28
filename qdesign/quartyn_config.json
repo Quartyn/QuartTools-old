@@ -83,7 +83,8 @@
             "name": "Messenger +",
             "by": "Meta",
             "qname": "Messenger",
-            "image": "Messenger"
+            "image": "Messenger",
+            "version": "1.0.5"
         },
         {
             "url": "myaccount.google.com",
