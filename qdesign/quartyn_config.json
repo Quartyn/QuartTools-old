@@ -7,7 +7,7 @@
             "qname": "Instagram",
             "image": "Instagram",
             "version": "2.0.1",
-            "status": "Fixing Bug"
+            "status": "Bug Found"
         },
         {
             "url": ".edupage.org",
@@ -15,7 +15,7 @@
             "by": "Edupage",
             "qname": "Edupage",
             "version": "0.0.0",
-            "status": "Developing",
+            "status": "In Development",
             "reqby": "Glitch"
         },
         {
@@ -34,7 +34,7 @@
             "qname": "Pinterest",
             "image": "Pinterest",
             "version": "1.0.0",
-            "status": "Updated"
+            "status": "Update"
         },
         {
             "url": "musixmatch.com",
