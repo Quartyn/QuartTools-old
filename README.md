@@ -4,5 +4,5 @@ Best Services for Online life
 https://quartyn.ml/#tools
 
 # Error Codes
-Q12 - Website Structure Changed • Broken Theme__
-Q11 - Found bug in Theme Code • Broken Theme__
+Q12 - Website Structure Changed • Broken Theme  
+Q11 - Found bug in Theme Code • Broken Theme  
