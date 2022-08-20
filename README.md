@@ -9,5 +9,5 @@ Q11 - Found bug in Theme Code • Broken Theme
 ...  
 Q0 - Theme was Fixed and Updated • Everything good
 
-If any of this errors occurs, i will be fixing it as soon as possible.
+If any of this errors occurs, i will be fixing it as soon as possible.  
 Is a theme broken for a very long time and still not fixed? Then contact me here at [this email](quartyn.business@gmail.com).
