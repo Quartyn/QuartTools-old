@@ -127,7 +127,8 @@
             "name": "Drive",
             "by": "Google",
             "qname": "GoogleDrive",
-            "image": "GoogleDrive"
+            "image": "GoogleDrive",
+            "status": "Bug Found"
         },
         {
             "url": "www.duolingo.com",
