@@ -25,7 +25,7 @@
             "qname": "TikTok",
             "image": "TikTok",
             "version": "0.0.1",
-            "status": "Beta"
+            "status": "In Development"
         },
         {
             "url": "pinterest.com",
@@ -120,7 +120,7 @@
             "by": "Google",
             "qname": "GoogleCalendar",
             "image": "GoogleCalendar",
-            "status": "Alpha"
+            "status": "In Development"
         },
         {
             "url": "drive.google.com",
