@@ -21,6 +21,16 @@
             "reqby": "Glitch"
         },
         {
+            "url": "calendar.google.com",
+            "website": "https://calendar.google.com",
+            "name": "Calendar",
+            "by": "Google",
+            "qname": "GoogleCalendar",
+            "image": "GoogleCalendar",
+            "status": "Beta",
+            "version": "0.3.2"
+        },
+        {
             "url": "www.tiktok.com",
             "website": "https://www.tiktok.com",
             "name": "TikTok",
@@ -127,15 +137,6 @@
             "by": "Google",
             "qname": "GooglePasswords",
             "image": "Google"
-        },
-        {
-            "url": "calendar.google.com",
-            "website": "https://calendar.google.com",
-            "name": "Calendar",
-            "by": "Google",
-            "qname": "GoogleCalendar",
-            "image": "GoogleCalendar",
-            "status": "In Development"
         },
         {
             "url": "drive.google.com",
