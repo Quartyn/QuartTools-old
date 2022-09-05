@@ -1,9 +1,9 @@
-## QuartTools
+# QuartTools
 QuartTools are tools that make life easier for clients online.
 Best Services for Online life
 https://quartyn.ml/
 
-# Error Codes
+## Error Codes (Themes)
 Q12 - Website Structure Changed  
 Q11 - Found bug in Theme Code  
 Q10 - The theme is being modified based on a recommendation from one of you  
