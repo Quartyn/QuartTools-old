@@ -12,31 +12,17 @@
             "something removed"
         ]
     },
-    "Upcoming Update": [
-        "Soon. Be ready for it."
-    ],
-    "02.06.2022": [
-        "[Update] Version 1.2.1",
-        "[+] Profile Tab Added",
-        "[+] Navigation Menu Controls",
-        "[+] Full Responsibility",
-        "[Fix] Twitch Bonus Chest autoclaim Fixed",
-        "Updated Design"
-    ],
-    "27.04.2022": [
-        "[Update] Version 1.0.1",
-        "[+] Support Me Tab Added",
-        "[+] Feedback Tab Added",
-        "[+] Music Tab Added",
-        "[+] About Tab Added",
-        "Themes Tab ReDesigned",
-        "Updated Design"
-    ],
-    "14.04.2022": [
-        "[+] Added Featured Tab",
-        "Updated Design"
-    ],
-    "31.03.2022": [
-        "Updated Design"
-    ]
+    "1.2.5": {
+        "update_date": "7. 9. 2022",
+        "added": [
+            "New design for themes tab",
+            "Available theme notification"
+        ],
+        "fixed": [
+            "Something fixed.."
+        ],
+        "removed": [
+            "something removed"
+        ]
+    },
 }
