@@ -1,4 +1,17 @@
 {
+    "1.2.5": {
+        "update_date": "7. 9. 2022",
+        "added": [
+            "New design for themes tab",
+            "Available theme notification"
+        ],
+        "fixed": [
+            "Something fixed.."
+        ],
+        "removed": [
+            "something removed"
+        ]
+    },
     "Upcoming Update": [
         "Soon. Be ready for it."
     ],
