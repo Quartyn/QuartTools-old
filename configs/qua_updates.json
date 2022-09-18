@@ -3,7 +3,7 @@
         "author": "Quartyn",
         "version": "1.5.0",
         "date": "18.9.2022",
-        "updates": [
+        "updates": {
             "added": [
                 "Fully new design",
                 "Test label",
@@ -17,15 +17,15 @@
             "fixed": [
                 "Test label",
                 "Test label",
-                "Test label",
+                "Test label"
             ]
-        ]
+        }
     },
     {
         "author": "Quartyn",
         "version": "1.4.0",
         "date": "22.22.2027",
-        "updates": [
+        "updates": {
             "added": [
                 "Fully new design",
                 "Test label",
@@ -39,15 +39,15 @@
             "fixed": [
                 "Test label",
                 "Test label",
-                "Test label",
+                "Test label"
             ]
-        ]
+        }
     },
     {
         "author": "Quartyn",
         "version": "1.0.0",
         "date": "xx.XX.2027",
-        "updates": [
+        "updates": {
             "added": [
                 "Fully new design",
                 "Test label",
@@ -61,8 +61,8 @@
             "fixed": [
                 "Test label",
                 "Test label",
-                "Test label",
+                "Test label"
             ]
-        ]
+        }
     }
 ]
