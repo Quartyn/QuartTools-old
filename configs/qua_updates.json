@@ -1,28 +1,68 @@
-{
-    "1.2.5": {
-        "update_date": "7. 9. 2022",
-        "added": [
-            "New design for themes tab",
-            "Available theme notification"
-        ],
-        "fixed": [
-            "Something fixed.."
-        ],
-        "removed": [
-            "something removed"
+[
+    {
+        "author": "Quartyn",
+        "version": "1.5.0",
+        "date": "18.9.2022",
+        "updates": [
+            "added": [
+                "Fully new design",
+                "Test label",
+                "Test label",
+                "Test label"
+            ],
+            "removed": [
+                "Test label",
+                "Test label"
+            ],
+            "fixed": [
+                "Test label",
+                "Test label",
+                "Test label",
+            ]
         ]
     },
-    "1.2.2": {
-        "update_date": "7. 9. 2022",
-        "added": [
-            "New design for themes tab",
-            "Available theme notification"
-        ],
-        "fixed": [
-            "Something fixed.."
-        ],
-        "removed": [
-            "something removed"
+    {
+        "author": "Quartyn",
+        "version": "1.4.0",
+        "date": "22.22.2027",
+        "updates": [
+            "added": [
+                "Fully new design",
+                "Test label",
+                "Test label",
+                "Test label"
+            ],
+            "removed": [
+                "Test label",
+                "Test label"
+            ],
+            "fixed": [
+                "Test label",
+                "Test label",
+                "Test label",
+            ]
+        ]
+    },
+    {
+        "author": "Quartyn",
+        "version": "1.0.0",
+        "date": "xx.XX.2027",
+        "updates": [
+            "added": [
+                "Fully new design",
+                "Test label",
+                "Test label",
+                "Test label"
+            ],
+            "removed": [
+                "Test label",
+                "Test label"
+            ],
+            "fixed": [
+                "Test label",
+                "Test label",
+                "Test label",
+            ]
         ]
     }
-}
+]
