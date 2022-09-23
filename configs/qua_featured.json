@@ -8,6 +8,27 @@
             "tag": "Best,Service"
         },
         {
+            "url": "https://open.spotify.com?referrer=Quartyn",
+            "name": "Spotify",
+            "desc": "The best music platform in the whole world. Stream Music, Podcasts and more",
+            "image": "https://open.spotifycdn.com/cdn/images/favicon32.8e66b099.png#?quartyn=rounded",
+            "tag": "Application,Website"
+        },
+        {
+            "url": "https://socialsharepreview.com?referrer=Quartyn",
+            "name": "Social Share Preview",
+            "desc": "Check any website's social share previews while you browse!",
+            "image": "https://socialsharepreview.com/favicon/android-icon-192x192.png#?quartyn=rounded",
+            "tag": "Extension,Website"
+        },
+        {
+            "url": "https://www.shazam.com?referrer=Quartyn",
+            "name": "Shazam",
+            "desc": "Identify songs from your browser. Find music, lyrics, videos & more",
+            "image": "https://www.shazam.com/resources/b384e8f3b507d1a681d74766c50566a96dda714a/favicon.ico#?quartyn=rounded",
+            "tag": "Extension,Website"
+        },
+        {
             "url": "https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng?referrer=Quartyn",
             "name": "Charcoal for Messenger",
             "desc": "Dark Mode for Messenger",
