@@ -1,68 +1,48 @@
 [
     {
         "author": "Quartyn",
-        "version": "Version 1.5.0",
-        "date": "18.9.2022",
+        "version": "Upcoming Update!",
+        "date": "xx.xx.2022",
         "updates": {
-            "added": [
-                "Fully new design",
-                "Test label",
-                "Test label",
-                "Test label"
-            ],
-            "removed": [
-                "Test label",
-                "Test label"
-            ],
+            "added": [],
+            "removed": [],
             "fixed": [
-                "Test label",
-                "Test label",
-                "Test label"
+                "Be ready"
             ]
         }
     },
     {
         "author": "Quartyn",
-        "version": "Version 1.4.0",
-        "date": "22.22.2027",
+        "version": "Version 1.1.0",
+        "date": "02.06.2022",
         "updates": {
             "added": [
-                "Fully new design",
-                "Test label",
-                "Test label",
-                "Test label"
+                "Profile customize tab",
+                "Navigation menu controls",
+                "Full responsible",
+                "Music tab",
+                "About tab"
             ],
-            "removed": [
-                "Test label",
-                "Test label"
-            ],
+            "removed": [],
             "fixed": [
-                "Test label",
-                "Test label",
-                "Test label"
+                "Twitch bonus chest fixed"
             ]
         }
     },
     {
         "author": "Quartyn",
-        "version": "Version 1.0.0",
-        "date": "xx.XX.2027",
+        "version": "Released v1.0.0",
+        "date": "27.04.2022",
         "updates": {
             "added": [
-                "Fully new design",
-                "Test label",
-                "Test label",
-                "Test label"
+                "QuartTools were released!",
+                "Support me tab",
+                "Feedback tab",
+                "Music tab",
+                "About tab"
             ],
-            "removed": [
-                "Test label",
-                "Test label"
-            ],
-            "fixed": [
-                "Test label",
-                "Test label",
-                "Test label"
-            ]
+            "removed": [],
+            "fixed": []
         }
     }
 ]
