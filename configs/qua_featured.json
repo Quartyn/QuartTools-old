@@ -29,6 +29,13 @@
             "tag": "Extension,Website"
         },
         {
+            "url": "https://remotedesktop.google.com?referrer=Quartyn",
+            "name": "Chrome Remote Desktop",
+            "desc": "The easy way to remotely connect with your home or work computer, or share your screen with others.",
+            "image": "https://ssl.gstatic.com/chromoting/chromoting_logo_512.png",
+            "tag": "Extension,Website"
+        },
+        {
             "url": "https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng?referrer=Quartyn",
             "name": "Charcoal for Messenger",
             "desc": "Dark Mode for Messenger",
