@@ -109,7 +109,8 @@
             "name": "My Account",
             "by": "Google",
             "qname": "GoogleMyAccount",
-            "image": "Google"
+            "image": "Google",
+            "status": "Bug Found"
         },
         {
             "url": "soundcloud.com",
@@ -125,7 +126,8 @@
             "name": "Accounts",
             "by": "Google",
             "qname": "GoogleAccounts",
-            "image": "Google"
+            "image": "Google",
+            "status": "Bug Found"
         },
         {
             "url": "passwords.google.com",
