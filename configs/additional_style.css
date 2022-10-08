@@ -1,5 +1,5 @@
 /* Everything looks good. Enjoy:D */
-.q-overlay::before {
+.qregister-page::before {
     content: 'New Update is coming. Registration in this version is blocked. Please wait few days and register later :D';
     z-index: 5;
     position: absolute;
