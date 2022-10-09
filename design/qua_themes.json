@@ -109,7 +109,8 @@
             "by": "Google",
             "qname": "GoogleMyAccount",
             "image": "Google",
-            "status": "Bug Found"
+            "status": "Update",
+            "version": "2.4.1"
         },
         {
             "url": "soundcloud.com",
