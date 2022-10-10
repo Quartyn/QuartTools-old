@@ -15,7 +15,8 @@
             "website": "https://edupage.org",
             "name": "Edupage",
             "by": "Edupage",
-            "qname": "Edupage",
+            "qname": "Edupage",,
+            "image": "Edupage",
             "version": "0.3.0",
             "status": "Beta",
             "reqby": "Glitch"
