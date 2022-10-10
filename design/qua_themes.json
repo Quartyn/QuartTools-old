@@ -144,7 +144,8 @@
             "by": "Google",
             "qname": "GoogleDrive",
             "image": "GoogleDrive",
-            "status": "Bug Found"
+            "status": "Update",
+            "version": "0.1.0"
         },
         {
             "url": "www.duolingo.com",
