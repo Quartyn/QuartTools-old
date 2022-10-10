@@ -128,7 +128,8 @@
             "by": "Google",
             "qname": "GoogleAccounts",
             "image": "Google",
-            "status": "Bug Found"
+            "status": "Update",
+            "version": "1.0.2"
         },
         {
             "url": "passwords.google.com",
