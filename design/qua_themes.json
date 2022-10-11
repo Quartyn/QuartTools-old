@@ -110,7 +110,6 @@
             "by": "Google",
             "qname": "GoogleMyAccount",
             "image": "Google",
-            "status": "Update",
             "version": "2.4.1"
         },
         {
@@ -128,7 +127,6 @@
             "by": "Google",
             "qname": "GoogleAccounts",
             "image": "Google",
-            "status": "Update",
             "version": "1.0.2"
         },
         {
@@ -146,7 +144,6 @@
             "by": "Google",
             "qname": "GoogleDrive",
             "image": "GoogleDrive",
-            "status": "Update",
             "version": "0.1.0"
         },
         {
