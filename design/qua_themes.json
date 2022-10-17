@@ -65,7 +65,8 @@
             "by": "Google",
             "qname": "GoogleClassroom",
             "image": "GoogleClassroom",
-            "version": "1.0.0"
+            "version": "Beta",
+            "status": "Beta"
         },
         {
             "url": "onedrive.live.com",
