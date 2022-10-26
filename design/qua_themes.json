@@ -159,14 +159,6 @@
             "qname": "Duolingo",
             "image": "Duolingo",
             "version": "1.0.0"
-        },
-        {
-            "url": "blank.org",
-            "website": "https://blank.org",
-            "name": "Blank.org",
-            "by": "Blank",
-            "qname": "BlankORG",
-            "version": "1.0.0"
         }
     ]
 }
