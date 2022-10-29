@@ -149,7 +149,8 @@
             "by": "Google",
             "qname": "GoogleDrive",
             "image": "GoogleDrive",
-            "version": "0.2.0"
+            "version": "0.3.0",
+            "status": "Update"
         },
         {
             "url": "www.duolingo.com",
