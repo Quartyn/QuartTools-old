@@ -1,13 +1,25 @@
-/* Everything looks good. Enjoy:D */
-.qregister-page::before {
-    content: 'New Update is coming. Registration in this version is blocked. Please wait few days and register later :D';
-    z-index: 5;
-    position: absolute;
-    left: 20px;
-    box-shadow: 0 0 6px #4f4fff;
-    top: 10px;
-    font-size: 20px;
-    padding: 5px 15px;
-    background: #18103c;
-    border-radius: 8px;
+/* YouTube new Design additional theme */
+body .sbdd_b {
+  background: #0f0f0f !important;
+  border: 1px solid #222222 !important;
+  border-radius: 12px !important;
+}
+body .sbsb_a {
+  border-radius: 10px !important;
+}
+body .sbsb_d {
+  background: rgba(255,255,255,.1) !important;
+}
+body .sbpqs_a:before,
+body .sbqs_c:before { /* Search icon and last searched icon */
+  filter: invert(1) !important;
+}
+body .sbsb_a { /* Background of search results */
+  background: #0f0f0f !important;
+}
+body .sbpqs_a {
+  color: #fff !important;
+}
+body .gsfs {
+  color: #fff !important;
 }
