@@ -1,10 +1,10 @@
 # QuartTools - What it is?
-QuartTools are tools that make life easier for clients online. We are adding you some functions and custom themes for websites like YouTube, Instagram, etc.  
-This is an extension for Chrome, Edge. It's free to use for everybody, so feel free to download :)
+I was lazy so I made some tools for easier life on internet. They are adding you some functions and custom themes for websites like YouTube, Instagram, etc.  
+This is an extension for Chrome, Edge. It's free to use for everyone, so feel free to download :)
 
 ## Can I contribute?
 Yes! Of course you can. You can find some themes in [this directory](/design/themes/) and you can submit some theme for web you'd like to. 😊  
-You'll get a badge `Contributor` on your `QuartTools` account (same account as Quartyn's Services) and your name will also be in that CSS file.  
+You'll get a badge `Contributor` on your `QuartTools` account (same account as [Quartyn's Services](https://quartyn.ml/account/)) and your name will also be in that CSS file.  
 I am very grateful for every contribution you make.
 
 ## Error codes for Themes
