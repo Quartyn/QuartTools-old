@@ -15,7 +15,7 @@ No worry! You can also request theme for website you want. You need to go to `Th
 ## Can I change app language?
 Well.. for now there is only English language.. BUT I will add this in coming updates.. and you will be able to contribute with your own translation in your native language. Sounds awesome right?
 
-## What the hell are Ranks?!
+## What are Ranks?
 For every contribution, feedback, report, suggestion you receive points based on how valuable that contribution was.   
 Based on points, you'll also get some Badge.. `Noobie`, `Golden`, `Skilled`, `Professional`, `Extreme God!`, `Quartyn's Teammate` :D
 
