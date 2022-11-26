@@ -8,14 +8,14 @@ Yes! Of course you can. You can find some themes in [this directory](/design/the
 You'll get a badge `Contributor` on your `QuartTools` account (same account as [Quartyn's Services](https://quartyn.ml/account/)) and your name will also be in that CSS file.  
 I am very grateful for every contribution you make.
 
-## Error codes for Themes
-Is some of the themes broken? Is something glitchy or text is hard to read?  
-You can check theme status by this `Error Codes` bellow  
+## Hmm, can I request Theme?
+> Oh god.. I'm really bad at CSS..
+No worry! You can also request theme for website you want. You need to go to `Themes` tab in QuartTools and on right up click "Request Theme" > "Request New Theme"
 
-Q0 - Theme was Fixed and Updated • Everything good  
-Q1 - Website structure is often changed but for now was fixed  
-Q2 - This theme is still in development.. But version Beta was released  
-Q3 - We found an error and we are working on it  
+## Can I change language?
+Well.. for now there is only English language.. BUT I will add this in coming updates.. and you will be able to contribute with your own translation in your native language. Sounds good right?
 
-If any of this errors occurs, i will be fixing it as soon as possible.  
-Is a theme broken for a very long time and still not fixed? Then contact me here at [this email](mailto:quartyn.business@gmail.com).
+### Oh god, I found broken theme. What can I do?
+If you found some bug or any type of error in QuartTools Themes, you can submit a feedback in `Feedback` tab in QuartTools Overlay.
+> I sent a bug report in feedback and after long time theme is still not fixed!
+It is possible that your feedback was not sent properly and somewhere it disappeared 😢. But don't worry, if you want to, you can still send email to us with that bug described. In that email, please in email object write something like `Theme Bug - instagram.com` and in body type your QuartTools username (id if you want too) and message if you have something more to say.
