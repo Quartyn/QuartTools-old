@@ -9,7 +9,7 @@ You'll get a badge `Contributor` on your `QuartTools` account (same account as [
 I am very grateful for every contribution you make.
 
 ## Hmm, can I request Theme?
-> Oh god.. I'm really bad at CSS..  \
+> Oh god.. I'm really bad at CSS..    <
 No worry! You can also request theme for website you want. You need to go to `Themes` tab in QuartTools and on right up click "Request Theme" > "Request New Theme"
 
 ## Can I change language?
