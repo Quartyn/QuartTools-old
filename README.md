@@ -1,7 +1,8 @@
 # QuartTools
 QuartTools are tools that make life easier for clients online.
 Best Services for Online life
-https://quartyn.ml/
+https://quartyn.ml/  
+This is an extension for Chrome, Edge. It's free to use for everybody, so feel free to download :)
 
 ## Error Codes (Themes)
 Q12 - Website Structure Changed  
