@@ -18,4 +18,5 @@ Well.. for now there is only English language.. BUT I will add this in coming up
 ### Oh god, I found broken theme. What can I do?
 If you found some bug or any type of error in QuartTools Themes, you can submit a feedback in `Feedback` tab in QuartTools Overlay.   
 ```I sent a bug report in feedback and after long time theme is still not fixed!```    
-It is possible that your feedback was not sent properly and somewhere it disappeared 😢. But don't worry, if you want to, you can still send email to us with that bug described. In that email, please in email object write something like `Theme Bug - instagram.com` and in body type your QuartTools username (id if you want too) and message if you have something more to say.
+It is possible that your feedback was not sent properly and somewhere it disappeared 😢. But don't worry, if you want to, you can still send email to me with that bug described. In that email, please in email object write something like `Theme Bug - instagram.com` and in body write your QuartTools username (#id also if you want to) and message if you have something more to say.   
+Theme bugs and error send on [this email](themes@quartyn.ml)
