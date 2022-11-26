@@ -12,11 +12,15 @@ I am very grateful for every contribution you make.
 ```Oh god.. I'm really bad at CSS..```   
 No worry! You can also request theme for website you want. You need to go to `Themes` tab in QuartTools and on right up click "Request Theme" > "Request New Theme"
 
-## Can I change language?
-Well.. for now there is only English language.. BUT I will add this in coming updates.. and you will be able to contribute with your own translation in your native language. Sounds good right?
+## Can I change app language?
+Well.. for now there is only English language.. BUT I will add this in coming updates.. and you will be able to contribute with your own translation in your native language. Sounds awesome right?
+
+## What the hell are Ranks?!
+For every contribution, feedback, report, suggestion you receive points based on how valuable that contribution was.   
+Based on points, you'll also get some Badge.. `Noobie`, `Golden`, `Skilled`, `Professional`, `Extreme God!`, `Quartyn's Teammate` :D
 
 ### Oh god, I found broken theme. What can I do?
 If you found some bug or any type of error in QuartTools Themes, you can submit a feedback in `Feedback` tab in QuartTools Overlay.   
 ```I sent a bug report in feedback and after long time theme is still not fixed!```    
 It is possible that your feedback was not sent properly and somewhere it disappeared 😢. But don't worry, if you want to, you can still send email to me with that bug described. In that email, please in email object write something like `Theme Bug - instagram.com` and in body write your QuartTools username (#id also if you want to) and message if you have something more to say.   
-Theme bugs and error send on [this email](themes@quartyn.ml)
+You can send theme bugs and errors on [this email](themes@quartyn.ml)
