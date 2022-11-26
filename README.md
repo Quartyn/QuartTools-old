@@ -1,6 +1,7 @@
 # QuartTools - What it is?
-I was lazy so I made some tools for easier life on internet. They are adding you some functions and custom themes for websites like YouTube, Instagram, etc.  
-This is an extension for Chrome, Edge. It's free to use for everyone, so feel free to download :)
+We developers are lazy so I made some tools for easier life on internet. They are adding you some functions and custom themes for websites like YouTube, Instagram, etc.  
+This is an extension for `Chrome`, `Edge`. It's free to use for everyone, so feel free to download :)  
+[Chrome Webstore](https://quartyn.ml/tools?utm_source=github&q_content=readme)
 
 ## Can I contribute?
 Yes! Of course you can. You can find some themes in [this directory](/design/themes/) and you can submit some theme for web you'd like to. 😊  
