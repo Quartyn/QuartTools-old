@@ -1,6 +1,8 @@
-# QuartTools - What it is?
-We developers are lazy so I made some tools for easier life on internet. They are adding you some functions and custom themes for websites like YouTube, Instagram, etc.  
-This is an extension for `Chrome`, `Edge`. It's free to use for everyone, so feel free to download :)  
+## QuartTools - What it is?
+We developers are lazy so I made some tools for easier life on internet. They are adding you some functions and custom themes for websites like YouTube, Instagram, etc.
+
+This is an extension for browsers [Chrome](https://www.google.com/chrome/), [Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ). It's free to use for everyone, so feel free to download :)  
+
 [Chrome Webstore](https://quartyn.ml/tools?utm_source=github&q_content=readme)
 
 ## Can I contribute?
@@ -20,10 +22,12 @@ Well.. for now there is only English language.. BUT I will add this in coming up
 For every contribution, feedback, report, suggestion you receive points based on how valuable that contribution was.   
 Based on points, you'll also get some Badge.. `Noobie`, `Golden`, `Skilled`, `Professional`, `Extreme God!`, `Quartyn's Teammate` :D
 
-### Oh god, I found broken theme. What can I do?
+## Oh god, I found broken theme. What can I do?
 If you found some bug or any type of error in QuartTools Themes, you can submit a feedback in `Feedback` tab in QuartTools Overlay.   
 
 > I sent a bug report in feedback and after long time theme is still not fixed!    
 
-It is possible that your feedback was not sent properly and somewhere it disappeared 😢. But don't worry, if you want to, you can still send email to me with that bug described. In that email, please in email object write something like `Theme Bug - instagram.com` and in body write your QuartTools username (#id also if you want to) and message if you have something more to say.   
+It is possible that your feedback was not sent properly and somewhere it disappeared 😢. But don't worry, if you want to, you can still send email to me with that bug described. 
+
+In that email, please in email object write something like `Theme Bug - instagram.com` and in body write your QuartTools username (#id also if you want to) and message if you have something more to say.   
 You can send theme bugs and errors on <a href="mailto:themes@quartyn.ml?subject=Theme%20Bug%20-%20example.com&body=I found bug in this theme. %0D%0A%0D%0AMy Username is: %0D%0AMy ID is:">this email</a>
