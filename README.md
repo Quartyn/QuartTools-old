@@ -30,4 +30,5 @@ If you found some bug or any type of error in QuartTools Themes, you can submit 
 It is possible that your feedback was not sent properly and somewhere it disappeared 😢. But don't worry, if you want to, you can still send email to me with that bug described. 
 
 In that email, please in email object write something like `Theme Bug - instagram.com` and in body write your QuartTools username (#id also if you want to) and message if you have something more to say.   
+
 You can send theme bugs and errors on <a href="mailto:themes@quartyn.ml?subject=Theme%20Bug%20-%20example.com&body=I found bug in this theme. %0D%0A%0D%0AMy Username is: %0D%0AMy ID is:">this email</a>
