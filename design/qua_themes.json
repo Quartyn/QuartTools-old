@@ -157,6 +157,16 @@
             "qname": "Duolingo",
             "image": "Duolingo",
             "version": "1.0.0"
+        },
+        {
+            "url": "ebay.com",
+            "website": "https://ebay.com",
+            "name": "Ebay",
+            "by": "Ebay",
+            "qname": "ebay.com",
+            "image": "Ebay",
+            "version": "Development",
+            "status": "In Development"
         }
     ]
 }
