@@ -1,18 +1,14 @@
-This all directories are owned and created by Quartyn
+# QuartTools
+This all directories are owned and created by Quartyn with ❤️
 
-My Socials:
- Twitter:
- • Quartyn_
-   https://twitter.com/Quartyn_
- Instagram:
- • Quartyn_
-   https://www.instagram.com/Quartyn_/
- YouTube:
- • Quartyn
-   https://www.youtube.com/channel/UC-XeZnVC9bBcNpOfSEXrjmQ
+## More Informations
+You can find full documentation at:   
+https://github.com/Quartyn/QuartTools#readme
 
-Licenses:
- • QuartTools
- • QuartTools - Themes
+## My Socials
+#### All my links: https://linktr.ee/Quartyn   
+##### Twitter: [Quartyn_](https://twitter.com/Quartyn_)
+##### Instagram: [Quartyn_](https://www.instagram.com/Quartyn_/)
+##### YouTube: [Quartyn](https://www.youtube.com/@Quartyn)
 
-Copyright © 2019 - 2022
+#### © 2019-2022 QuartTools | Made by Quartyn with ❤️
