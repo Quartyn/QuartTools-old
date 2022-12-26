@@ -10,6 +10,16 @@
             "version": "2.1.0"
         },
         {
+            "url": "one.google.com",
+            "website": "https://one.google.com",
+            "name": "One",
+            "by": "Google",
+            "qname": "GoogleOne",
+            "image": "GoogleOne",
+            "version": "1.0.0",
+            "status": "New"
+        },
+        {
             "url": ".edupage.org",
             "website": "https://edupage.org",
             "name": "Edupage",
