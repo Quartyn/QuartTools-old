@@ -3,7 +3,7 @@ We developers are lazy so I made some tools for easier life on internet. They ar
 
 This is an extension for browsers [Chrome](https://www.google.com/chrome/), [Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ). It's free to use for everyone, so feel free to download :)  
 
-[Chrome Webstore](https://quartyn.com/tools?utm_source=github&q_content=readme)
+[Chrome Webstore](https://quartyn.com/tools?utm_source=github&qua_source=readme)
 
 ## Can I contribute?
 Yes! Of course you can. You can find some themes in [this directory](/design/themes/) and you can submit some theme for web you'd like to. 😊  
