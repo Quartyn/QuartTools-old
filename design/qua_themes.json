@@ -40,16 +40,6 @@
             "version": "1.0.0"
         },
         {
-            "url": "www.tiktok.com",
-            "website": "https://www.tiktok.com",
-            "name": "TikTok",
-            "by": "TikTok",
-            "qname": "TikTok",
-            "image": "TikTok",
-            "version": "0.0.1",
-            "status": "In Development"
-        },
-        {
             "url": "pinterest.com",
             "website": "https://pinterest.com",
             "name": "Pinterest",
