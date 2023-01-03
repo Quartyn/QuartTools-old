@@ -159,14 +159,27 @@
             "version": "1.0.0"
         },
         {
-            "url": "ebay.com",
-            "website": "https://ebay.com",
-            "name": "Ebay",
-            "by": "Ebay",
-            "qname": "ebay.com",
-            "image": "Ebay",
+            "url": "www.amazon.",
+            "website": "https://www.amazon.com",
+            "name": "Amazon",
+            "by": "Amazon",
+            "qname": "Amazon",
+            "image": "Amazon",
             "version": "Development",
-            "status": "In Development"
+            "status": "In Development",
+            "reqby": "Blemme"
+        }
+        ,
+        {
+            "url": "www.aliexpress.",
+            "website": "https://www.aliexpress.com",
+            "name": "Aliexpress",
+            "by": "Aliexpress",
+            "qname": "Aliexpress",
+            "image": "Aliexpress",
+            "version": "Development",
+            "status": "In Development",
+            "reqby": "Blemme"
         }
     ]
 }
