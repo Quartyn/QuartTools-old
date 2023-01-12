@@ -1,15 +1,6 @@
 {
     "qthemes": [
         {
-            "url": "www.instagram.com",
-            "website": "https://www.instagram.com",
-            "name": "Instagram",
-            "by": "Meta",
-            "qname": "Instagram",
-            "image": "Instagram",
-            "version": "2.1.0"
-        },
-        {
             "url": "one.google.com",
             "website": "https://one.google.com",
             "name": "One",
@@ -168,8 +159,7 @@
             "version": "Development",
             "status": "In Development",
             "reqby": "Blemme"
-        }
-        ,
+        },
         {
             "url": "www.aliexpress.",
             "website": "https://www.aliexpress.com",
