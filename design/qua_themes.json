@@ -7,8 +7,7 @@
             "by": "Google",
             "qname": "GoogleOne",
             "image": "GoogleOne",
-            "version": "1.0.0",
-            "status": "New"
+            "version": "1.0.0"
         },
         {
             "url": ".edupage.org",
@@ -46,8 +45,7 @@
             "by": "Musixmatch",
             "qname": "Musixmatch",
             "image": "Musixmatch",
-            "version": "1.5.3",
-            "status": "Update"
+            "version": "1.5.3"
         },
         {
             "url": "classroom.google.com",
@@ -76,7 +74,8 @@
             "by": "Google",
             "qname": "GooglePhotos",
             "image": "GooglePhotos",
-            "version": "0.9.3"
+            "version": "1.0.0",
+            "status": "Update"
         },
         {
             "url": "translate.google",
@@ -85,8 +84,7 @@
             "by": "Google",
             "qname": "GoogleTranslate",
             "image": "GoogleTranslate",
-            "version": "1.0.0",
-            "status": "Update"
+            "version": "1.0.0"
         },
         {
             "url": "www.messenger.com",
