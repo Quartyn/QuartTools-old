@@ -46,7 +46,8 @@
             "by": "Musixmatch",
             "qname": "Musixmatch",
             "image": "Musixmatch",
-            "version": "1.5.3"
+            "version": "1.7.0",
+            "status": "Update"
         },
         {
             "url": "classroom.google.com",
