@@ -7,8 +7,7 @@
             "by": "Google",
             "qname": "GoogleOne",
             "image": "GoogleOne",
-            "version": "1.1.0",
-            "status": "Update"
+            "version": "1.1.0"
         },
         {
             "url": ".edupage.org",
@@ -46,8 +45,7 @@
             "by": "Musixmatch",
             "qname": "Musixmatch",
             "image": "Musixmatch",
-            "version": "1.7.0",
-            "status": "Update"
+            "version": "1.7.0"
         },
         {
             "url": "classroom.google.com",
@@ -76,8 +74,7 @@
             "by": "Google",
             "qname": "GooglePhotos",
             "image": "GooglePhotos",
-            "version": "1.1.0",
-            "status": "Update"
+            "version": "1.1.0"
         },
         {
             "url": "translate.google",
@@ -130,7 +127,8 @@
             "by": "Google",
             "qname": "GooglePasswords",
             "image": "Google",
-            "version": "1.2.0"
+            "version": "1.2.3",
+            "status": "Update"
         },
         {
             "url": "drive.google.com",
