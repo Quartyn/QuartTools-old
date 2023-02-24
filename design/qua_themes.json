@@ -95,6 +95,16 @@
             "version": "1.0.5"
         },
         {
+            "url": "youtube.com",
+            "website": "https://www.youtube.com",
+            "name": "YouTube +",
+            "by": "Google",
+            "qname": "YouTube",
+            "image": "YouTube",
+            "version": "0.3.1",
+            "status": "New"
+        },        
+        {
             "url": "myaccount.google.com",
             "website": "https://myaccount.google.com",
             "name": "My Account",
