@@ -1,5 +1,6 @@
 {
     "twitch": {
-        "bonus_chest_id": "[data-test-selector='community-points-summary'] .CDgpA button"
+        "bonus_chest_id": "[data-test-selector='community-points-summary'] .CDgpA button",
+        "chest:id": "[data-test-selector='community-points-summary'] .CDgpA button"
     }
 }
