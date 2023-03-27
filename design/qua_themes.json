@@ -93,7 +93,8 @@
             "by": "Google",
             "qname": "GoogleTranslate",
             "image": "GoogleTranslate",
-            "version": "1.0.0"
+            "version": "2.5.3",
+            "status": "Update"
         },
         {
             "url": "www.messenger.com",
