@@ -1,4 +1,4 @@
-/* Version 2.8.1 • Updated: 07.07.2023 */
+/* Version 2.8.2 • Updated: 07.07.2023 */
 /* Author: Quartyn */
 /* Theme: Google Translate */
 /* customization: supported */
@@ -17,7 +17,8 @@
 
     --qua-themes-text-color-rgb: 255 255 255; /* title: Primary text; type: rgb; */
     --qua-themes-text-color: rgb(var(--qua-themes-text-color-rgb));
-    --qua-themes-text-color-secondary-rgb: 108 115 121; /* title: Secondary text; type: rgb; */
+    --qua-themes-text-color-secondary-rgb: 127 127 137; /* title: Secondary text; type: rgb; */
+    
     --qua-themes-text-color-secondary: rgb(var(--qua-themes-text-color-secondary-rgb));
 
     --qua-themes-border-color: #212326; /* title: Border color; type: hex; */
