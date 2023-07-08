@@ -34,13 +34,15 @@
         },
         {
             "url": "pinterest.com",
+            "domain": "*.pinterest.*",
             "website": "https://pinterest.com",
             "name": "Pinterest",
             "identifier": "Pinterest",
             "by": "Pinterest",
             "qname": "Pinterest",
             "image": "Pinterest",
-            "version": "1.0.0"
+            "version": "0.8.3",
+            "status": "Beta"
         },
         {
             "url": "musixmatch.com",
