@@ -1,0 +1,5 @@
+{
+    "twitch": {
+        "chest_id": "[data-test-selector='community-points-summary'] .ymdMR button"
+    }
+}
